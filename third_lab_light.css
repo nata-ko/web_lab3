@@ -1,0 +1,60 @@
+:root{
+    /*general*/
+    --body_background:#fff;
+    --pop_up_background:rgba(255,255,255,0.9);
+    --pop_up_border_color:black;
+    --font_color:black;
+
+
+
+    /*pre header*/
+        /*for links*/
+        --pre_header_links:rgb(150, 150, 150);
+        --pre_head_link_hover:#db7858;
+
+        /*for input*/
+        --input_onfocus:#db7858;
+
+
+        /*for check mode btn*/
+
+        --check_btn_back:white;
+        --check_btn_border: #000;
+        
+        --button_round_back_color:#ccc;
+
+        /*headre*/
+        --logo:black;
+
+
+
+        /*content*/
+        --read_more_button:var(--input_onfocus);
+    
+
+    /*real header*/
+
+
+
+
+    /*second block*/
+        /*background*/
+        --section_background:#ededed;
+
+
+
+            /*input*/
+        --input_background:rgb(216, 213, 213);
+        
+
+        /*icons block*/
+        --icons_buttons_border: black;
+        --icons_buttons_background: var(--icons_buttons_border);
+        --icons_buttons_color: white;
+
+
+        /* log in form*/
+        --placeholder_color:rgba(0, 0, 0, 0.612);
+   
+}
+

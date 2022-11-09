@@ -1,0 +1,62 @@
+:root{
+    
+
+    /*general*/
+    --body_background:rgb(18, 17, 26);
+    --pop_up_background:rgba(18, 18, 24, 0.9);
+    --pop_up_border_color:white;
+    --font_color:white;
+
+
+
+    /*pre header*/
+        /*for links*/
+        --pre_header_links:rgb(189, 187, 187);
+        --pre_head_link_hover:#587fdb;
+
+
+
+        /*for input*/
+        --input_onfocus:#db7858;
+
+
+        /*for check mode btn*/
+    
+    
+        --check_btn_back:var(--body_background);
+        --check_btn_border: #fff;
+        --pre_head_link_hover:#db7858;
+
+        --button_round_back_color:#ccc;
+        
+
+        /*headre*/
+        --logo:white;
+
+
+
+        /*content*/
+        --read_more_button:var(--input_onfocus);
+    
+    
+
+    /*real header*/
+
+     /*second block*/
+        /*background*/
+        --section_background:rgb(31, 29, 45);
+
+          /*input*/
+          --input_background:rgb(50, 50, 58);
+
+
+
+        /*icons buttons*/
+        --icons_buttons_border: white;
+        --icons_buttons_background: var(--icons_buttons_border);
+        --icons_buttons_color: black;
+
+        /* log in form*/
+        --placeholder_color:rgba(0, 0, 0, 0.612);
+
+}
